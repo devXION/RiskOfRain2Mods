@@ -2,9 +2,12 @@
 Fortnite skin made for Risk of Rain!
 
 I take commissions for your skins!
-My discord: xion1875<br />
+My discord: xion1875 
+<br />
 
-
+![FortnitePreview3](https://github.com/devXION/RiskOfRain2Mods/assets/83879915/7c0e41e6-d65e-424a-98fb-da62210f8698)
+![FortnitePreview2](https://github.com/devXION/RiskOfRain2Mods/assets/83879915/90ec7d31-5a1d-45f7-8265-6313bcd89603)
+![FortnitePreview1](https://github.com/devXION/RiskOfRain2Mods/assets/83879915/a56b9a4b-37b9-4f0e-868c-d41c8a49c75c)
 
 
 Model: https://sketchfab.com/3d-models/skin-velocity-fortnite-by-captainexe-912507af252f44e5b7af5699dfc36faa
