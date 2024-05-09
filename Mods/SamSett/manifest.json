@@ -1,0 +1,10 @@
+{
+    "name": "Sam",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Sam from Honkai Star Rail skin for Sett",
+    "dependencies": [    
+    "bbepis-BepInExPack-5.3.1",
+    "SettMod"
+    ]
+}
