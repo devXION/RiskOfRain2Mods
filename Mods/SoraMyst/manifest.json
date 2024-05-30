@@ -1,0 +1,11 @@
+{
+    "name": "Sora",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Sora KH3 skin for Myst",
+    "dependencies": [    
+    "bbepis-BepInExPack-5.3.1",
+    "JavAngle-Myst-1.2.6"
+
+    ]
+}
