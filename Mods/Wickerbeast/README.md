@@ -1,4 +1,4 @@
-# Desciprion
+# Mod Info
 OC named Wickerbeast ported onto 2 vanilla survivors (Commando,Artificer).
 Each skin has prestige and more colorful variant!
                   
@@ -16,7 +16,7 @@ Each skin has prestige and more colorful variant!
 
 
 I take commissions for your skins!
-<br />
+# Contact
 My discord: xion1875
 
 
