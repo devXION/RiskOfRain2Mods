@@ -5,9 +5,11 @@ Each skin has prestige and more colorful variant!
                   
                   !!!!!This skin was done as a comission!!!!!
 
-                  ![image](https://github.com/devXION/RiskOfRain2Mods/assets/83879915/bfe0a3e5-7e1b-4937-8d56-89810c7d9b9c)
-                  ![image1](https://github.com/devXION/RiskOfRain2Mods/assets/83879915/b09b2580-ea5b-457f-a275-58ef13c9cc98)
-                  ![image3](https://github.com/devXION/RiskOfRain2Mods/assets/83879915/82455f3e-5145-4cf6-a46f-bd907c7f5ac8)
+
+![image](https://github.com/devXION/RiskOfRain2Mods/assets/83879915/0ed60fad-e0b8-4e2c-98f7-7122872c9a92)
+![image1](https://github.com/devXION/RiskOfRain2Mods/assets/83879915/ba356c9a-7e9d-40d6-a3e7-e2d35379690e)
+![image3](https://github.com/devXION/RiskOfRain2Mods/assets/83879915/b9ef68a0-ae9b-4683-bcda-a9887574ae87)
+
 
 
 
