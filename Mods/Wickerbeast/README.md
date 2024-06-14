@@ -16,7 +16,8 @@ Each skin has prestige and more colorful variant!
 
 
 I take commissions for your skins!
-My discord: xion1875<br />
+<br />
+My discord: xion1875
 
 
 
