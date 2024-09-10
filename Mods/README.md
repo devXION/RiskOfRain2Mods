@@ -3,7 +3,7 @@ Casey OC done for Huntress!
 This skin was comissioned trough Risk of Rain 2 modding discord.
 
 
-                                                                !!!!!!I do comissions of all sorts, here's my discord: xion1875!!!!!!
+                                      !!!!!!I do comissions of all sorts, here's my discord: xion1875!!!!!!
 ![image](https://github.com/user-attachments/assets/edca685d-8a60-4c60-87ee-06293348127a)
 ![image](https://github.com/user-attachments/assets/08737ee4-cb2a-44d0-9e9f-02293fca9ed0)
 
