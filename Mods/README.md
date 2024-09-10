@@ -1,17 +1,27 @@
+# Casey
+Casey OC done for Huntress! 
+This skin was comissioned trough Risk of Rain 2 modding discord.
 
-Lumbra skin for Huntress!
 
-I do skin, modeling from scratch and 3d modeling in general comissions
-
-If you wish to contact me here's my discord: xion1875 <br />
-
-![image](https://github.com/user-attachments/assets/0b9f42a0-3b7c-447c-8403-f6da7cd1909f)
-![image1](https://github.com/user-attachments/assets/1fce2c9b-dd10-4e30-8478-eb7c84c18ff8)
-![image2](https://github.com/user-attachments/assets/7a6fc98b-629a-4c6d-b53e-07820d6a0c56)
+I do comissions of all sorts, here's my discord: xion1875<br />
+![image](https://github.com/user-attachments/assets/edca685d-8a60-4c60-87ee-06293348127a)
+![image](https://github.com/user-attachments/assets/08737ee4-cb2a-44d0-9e9f-02293fca9ed0)
 
 
 
-Credits: <br />
 
-Model: https://www.deviantart.com/vlthar/art/Lumbra-846379358
+
+
+
+
+# Credits
+c4ssidy_ for giving me concept art!
+Model is done solely by me
+
+![image](https://github.com/user-attachments/assets/09cd6176-a457-4c55-9fa1-9bed87050e0c)
+![image](https://github.com/user-attachments/assets/5b2e00c2-c303-452e-9417-264db2349bc2)
+![image](https://github.com/user-attachments/assets/19accec0-58e7-4313-8b32-6b32d4e36194)
+
+
+
 
