@@ -1,7 +1,8 @@
 Wolfinstine OC Skin for Paladin!
-![xion1875](https://github.com/user-attachments/assets/e26703bc-2b62-4ed6-9484-9cc38c10b71e) <br />
 
 
+
+![xion1875 (1)](https://github.com/user-attachments/assets/d9b0495b-3b3b-43a9-8426-7f3c8ba79b88)
 
 
 ![image](https://github.com/user-attachments/assets/8b96ebeb-4139-43a5-80a3-bd202038cd24)
