@@ -1,18 +1,13 @@
-Wolfinstine OC Skin for Paladin!
+Commissioned Bondrewd Skin for Ganondorf mod.
+![image](https://github.com/user-attachments/assets/3a89800a-3225-4560-908b-63a3269f6047)
+![image](https://github.com/user-attachments/assets/6e7a72c2-ffd0-4b5f-94b3-78b7b09222bc)
+![image](https://github.com/user-attachments/assets/0d2ddf61-5f93-422a-8216-e2bd8f8b8a64)
+![image](https://github.com/user-attachments/assets/bce5b9a8-8417-48e4-9643-db7d2257158e)
 
 
 
-![xion1875 (1)](https://github.com/user-attachments/assets/d9b0495b-3b3b-43a9-8426-7f3c8ba79b88)
 
+![image](https://github.com/user-attachments/assets/e4a05ba7-53b1-47df-88c2-93b9ad6d7674)
 
-![image](https://github.com/user-attachments/assets/8b96ebeb-4139-43a5-80a3-bd202038cd24)
-![image](https://github.com/user-attachments/assets/d99c8e25-7d62-4155-800e-92377969298e)
-![image](https://github.com/user-attachments/assets/fc90ebd9-463c-454b-9297-004960037f50)
+If you wish to contact me here's my discord: xion1875
 
-
-
-If you wish to contact me here's my discord: xion1875<br />
-
-Credits: <br />
-Model: Wolfinstine 
-<br />
